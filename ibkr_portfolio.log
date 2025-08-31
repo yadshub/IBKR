@@ -1,0 +1,207 @@
+2025-08-30 14:13:52,155 - INFO - Connecting to 127.0.0.1:7497 with clientId 1...
+2025-08-30 14:13:54,182 - INFO - Disconnecting
+2025-08-30 14:13:54,182 - ERROR - API connection failed: ConnectionRefusedError(22, 'The remote computer refused the network connection', None, 1225, None)
+2025-08-30 14:13:54,182 - ERROR - Make sure API port on TWS/IBG is open
+2025-08-30 14:13:54,182 - ERROR - Failed to connect to IBKR: [WinError 1225] The remote computer refused the network connection
+2025-08-30 14:25:50,001 - INFO - Connecting to 127.0.0.1:7497 with clientId 1...
+2025-08-30 14:25:52,029 - INFO - Disconnecting
+2025-08-30 14:25:52,029 - ERROR - API connection failed: ConnectionRefusedError(22, 'The remote computer refused the network connection', None, 1225, None)
+2025-08-30 14:25:52,078 - ERROR - Make sure API port on TWS/IBG is open
+2025-08-30 14:25:52,078 - ERROR - Failed to connect to IBKR: [WinError 1225] The remote computer refused the network connection
+2025-08-30 14:26:49,723 - INFO - Connecting to 127.0.0.1:7497 with clientId 1...
+2025-08-30 14:26:49,723 - INFO - Connected
+2025-08-30 14:26:49,792 - INFO - Logged on to server version 176
+2025-08-30 14:26:49,807 - INFO - API connection ready
+2025-08-30 14:26:49,819 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:eufarm
+2025-08-30 14:26:49,819 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:euhmds
+2025-08-30 14:26:49,819 - INFO - Warning 2158, reqId -1: Sec-def data farm connection is OK:secdefeu
+2025-08-30 14:26:49,903 - INFO - position: Position(account='U21193481', contract=Stock(conId=150029461, symbol='CHSPI', exchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, avgCost=148.98)
+2025-08-30 14:26:50,205 - INFO - updatePortfolio: PortfolioItem(contract=Stock(conId=150029461, symbol='CHSPI', right='0', primaryExchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, marketPrice=147.5549927, marketValue=295.11, averageCost=148.98, unrealizedPNL=-2.85, realizedPNL=0.0, account='U21193481')
+2025-08-30 14:26:50,309 - INFO - Synchronization complete
+2025-08-30 14:26:50,309 - INFO - Connected to IBKR TWS/Gateway at 127.0.0.1:7497
+2025-08-30 14:26:50,449 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 14:26:50,470 - INFO - No open orders found
+2025-08-30 14:26:50,473 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 14:26:50,480 - INFO - No open orders found
+2025-08-30 14:26:50,486 - INFO - Portfolio snapshot saved to portfolio_snapshot_20250830_142650.json
+2025-08-30 14:27:07,508 - INFO - Starting portfolio monitoring (refresh every 30s)
+2025-08-30 14:27:07,524 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 14:27:07,524 - INFO - No open orders found
+2025-08-30 14:27:37,531 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 14:27:37,531 - INFO - No open orders found
+2025-08-30 14:28:07,545 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 14:28:07,554 - INFO - No open orders found
+2025-08-30 14:28:37,560 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 14:28:37,563 - INFO - No open orders found
+2025-08-30 14:29:07,575 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 14:29:07,579 - INFO - No open orders found
+2025-08-30 14:29:37,599 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 14:29:37,601 - INFO - No open orders found
+2025-08-30 14:30:07,606 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 14:30:07,612 - INFO - No open orders found
+2025-08-30 14:30:37,632 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 14:30:37,636 - INFO - No open orders found
+2025-08-30 14:31:07,653 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 14:31:07,656 - INFO - No open orders found
+2025-08-30 14:31:37,672 - INFO - Warning 2107, reqId -1: HMDS data farm connection is inactive but should be available upon demand.euhmds
+2025-08-30 14:31:37,678 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 14:31:37,681 - INFO - No open orders found
+2025-08-30 14:32:07,687 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 14:32:07,690 - INFO - No open orders found
+2025-08-30 19:35:40,662 - INFO - Connecting to 127.0.0.1:7497 with clientId 1...
+2025-08-30 19:35:42,740 - INFO - Disconnecting
+2025-08-30 19:35:42,742 - ERROR - API connection failed: ConnectionRefusedError(22, 'The remote computer refused the network connection', None, 1225, None)
+2025-08-30 19:35:42,742 - ERROR - Make sure API port on TWS/IBG is open
+2025-08-30 19:35:42,742 - ERROR - Failed to connect to IBKR: [WinError 1225] The remote computer refused the network connection
+2025-08-30 19:35:42,742 - INFO - 127.0.0.1 - - [30/Aug/2025 19:35:42] "POST /api/connect HTTP/1.1" 200 -
+2025-08-30 19:35:53,087 - INFO - Connecting to 127.0.0.1:7497 with clientId 1...
+2025-08-30 19:35:55,115 - INFO - Disconnecting
+2025-08-30 19:35:55,115 - ERROR - API connection failed: ConnectionRefusedError(22, 'The remote computer refused the network connection', None, 1225, None)
+2025-08-30 19:35:55,115 - ERROR - Make sure API port on TWS/IBG is open
+2025-08-30 19:35:55,115 - ERROR - Failed to connect to IBKR: [WinError 1225] The remote computer refused the network connection
+2025-08-30 19:35:55,115 - INFO - 127.0.0.1 - - [30/Aug/2025 19:35:55] "POST /api/connect HTTP/1.1" 200 -
+2025-08-30 19:36:59,933 - INFO - Connecting to 127.0.0.1:7497 with clientId 1...
+2025-08-30 19:37:01,966 - INFO - Disconnecting
+2025-08-30 19:37:01,966 - ERROR - API connection failed: ConnectionRefusedError(22, 'The remote computer refused the network connection', None, 1225, None)
+2025-08-30 19:37:01,966 - ERROR - Make sure API port on TWS/IBG is open
+2025-08-30 19:37:01,967 - ERROR - Failed to connect to IBKR: [WinError 1225] The remote computer refused the network connection
+2025-08-30 19:37:01,967 - INFO - 127.0.0.1 - - [30/Aug/2025 19:37:01] "POST /api/connect HTTP/1.1" 200 -
+2025-08-30 19:38:44,565 - INFO - Connecting to 127.0.0.1:7496 with clientId 1...
+2025-08-30 19:38:44,565 - INFO - Connected
+2025-08-30 19:38:44,576 - INFO - Logged on to server version 176
+2025-08-30 19:38:44,583 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm.nj
+2025-08-30 19:38:44,583 - INFO - API connection ready
+2025-08-30 19:38:44,587 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-08-30 19:38:44,587 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:eufarm
+2025-08-30 19:38:44,587 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:cashfarm
+2025-08-30 19:38:44,587 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:eufarmnj
+2025-08-30 19:38:44,591 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm
+2025-08-30 19:38:44,591 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:euhmds
+2025-08-30 19:38:44,591 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:ushmds
+2025-08-30 19:38:44,594 - INFO - Warning 2158, reqId -1: Sec-def data farm connection is OK:secdefeu
+2025-08-30 19:38:44,594 - INFO - position: Position(account='U21193481', contract=Stock(conId=150029461, symbol='CHSPI', exchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, avgCost=148.98)
+2025-08-30 19:38:44,694 - INFO - updatePortfolio: PortfolioItem(contract=Stock(conId=150029461, symbol='CHSPI', right='0', primaryExchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, marketPrice=147.5549927, marketValue=295.11, averageCost=148.98, unrealizedPNL=-2.85, realizedPNL=0.0, account='U21193481')
+2025-08-30 19:38:44,802 - INFO - Synchronization complete
+2025-08-30 19:38:44,802 - INFO - Connected to IBKR TWS/Gateway at 127.0.0.1:7496
+2025-08-30 19:38:44,810 - INFO - 127.0.0.1 - - [30/Aug/2025 19:38:44] "POST /api/connect HTTP/1.1" 200 -
+2025-08-30 19:39:07,613 - INFO - 127.0.0.1 - - [30/Aug/2025 19:39:07] "GET / HTTP/1.1" 200 -
+2025-08-30 19:39:07,642 - INFO - 127.0.0.1 - - [30/Aug/2025 19:39:07] "GET /socket.io/?EIO=4&transport=websocket&sid=9e1TfgmCqH3ySqHeAAAC HTTP/1.1" 200 -
+2025-08-30 19:39:07,689 - INFO - 127.0.0.1 - - [30/Aug/2025 19:39:07] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-30 19:39:07,865 - INFO - 127.0.0.1 - - [30/Aug/2025 19:39:07] "GET /socket.io/?EIO=4&transport=polling&t=PZy3y6I HTTP/1.1" 200 -
+2025-08-30 19:39:08,207 - INFO - 127.0.0.1 - - [30/Aug/2025 19:39:08] "POST /socket.io/?EIO=4&transport=polling&t=PZy3y7j&sid=26rxRVd2x85zqcCJAAAE HTTP/1.1" 200 -
+2025-08-30 19:39:08,207 - INFO - 127.0.0.1 - - [30/Aug/2025 19:39:08] "GET /socket.io/?EIO=4&transport=polling&t=PZy3y7l&sid=26rxRVd2x85zqcCJAAAE HTTP/1.1" 200 -
+2025-08-30 19:39:41,333 - INFO - 127.0.0.1 - - [30/Aug/2025 19:39:41] "GET /socket.io/?EIO=4&transport=websocket&sid=26rxRVd2x85zqcCJAAAE HTTP/1.1" 200 -
+2025-08-30 20:15:33,536 - INFO - 127.0.0.1 - - [30/Aug/2025 20:15:33] "GET /socket.io/?EIO=4&transport=polling&t=PZyCHT3 HTTP/1.1" 200 -
+2025-08-30 20:15:37,023 - INFO - 127.0.0.1 - - [30/Aug/2025 20:15:37] "GET /socket.io/?EIO=4&transport=polling&t=PZyCI9v&sid=TDPYtnsqxx7Mj3f1AAAG HTTP/1.1" 200 -
+2025-08-30 20:15:37,037 - INFO - 127.0.0.1 - - [30/Aug/2025 20:15:37] "POST /socket.io/?EIO=4&transport=polling&t=PZyCI9t&sid=TDPYtnsqxx7Mj3f1AAAG HTTP/1.1" 200 -
+2025-08-30 22:03:08,427 - INFO - 127.0.0.1 - - [30/Aug/2025 22:03:08] "GET /socket.io/?EIO=4&transport=websocket&sid=TDPYtnsqxx7Mj3f1AAAG HTTP/1.1" 200 -
+2025-08-30 22:03:22,823 - INFO - 127.0.0.1 - - [30/Aug/2025 22:03:22] "GET /socket.io/?EIO=4&transport=polling&t=PZyaz3w HTTP/1.1" 200 -
+2025-08-30 22:03:23,083 - INFO - 127.0.0.1 - - [30/Aug/2025 22:03:23] "POST /socket.io/?EIO=4&transport=polling&t=PZyaz9X&sid=tiPs_07--DJIWHSlAAAI HTTP/1.1" 200 -
+2025-08-30 22:03:23,140 - INFO - 127.0.0.1 - - [30/Aug/2025 22:03:23] "GET /socket.io/?EIO=4&transport=polling&t=PZyaz9Z&sid=tiPs_07--DJIWHSlAAAI HTTP/1.1" 200 -
+2025-08-30 22:03:23,218 - INFO - 127.0.0.1 - - [30/Aug/2025 22:03:23] "GET /socket.io/?EIO=4&transport=polling&t=PZyazFX&sid=tiPs_07--DJIWHSlAAAI HTTP/1.1" 200 -
+2025-08-30 22:03:54,587 - INFO - 127.0.0.1 - - [30/Aug/2025 22:03:54] "GET / HTTP/1.1" 200 -
+2025-08-30 22:03:54,594 - INFO - 127.0.0.1 - - [30/Aug/2025 22:03:54] "GET /socket.io/?EIO=4&transport=websocket&sid=tiPs_07--DJIWHSlAAAI HTTP/1.1" 200 -
+2025-08-30 22:03:54,626 - INFO - 127.0.0.1 - - [30/Aug/2025 22:03:54] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-30 22:03:54,833 - INFO - 127.0.0.1 - - [30/Aug/2025 22:03:54] "GET /socket.io/?EIO=4&transport=polling&t=PZyb4x8 HTTP/1.1" 200 -
+2025-08-30 22:03:55,144 - INFO - 127.0.0.1 - - [30/Aug/2025 22:03:55] "POST /socket.io/?EIO=4&transport=polling&t=PZyb4zh&sid=2MNiHJ9R1g0lrb2VAAAK HTTP/1.1" 200 -
+2025-08-30 22:03:55,145 - INFO - 127.0.0.1 - - [30/Aug/2025 22:03:55] "GET /socket.io/?EIO=4&transport=polling&t=PZyb4zi&sid=2MNiHJ9R1g0lrb2VAAAK HTTP/1.1" 200 -
+2025-08-30 22:03:55,398 - INFO - 127.0.0.1 - - [30/Aug/2025 22:03:55] "GET /socket.io/?EIO=4&transport=polling&t=PZyb52Z&sid=2MNiHJ9R1g0lrb2VAAAK HTTP/1.1" 200 -
+2025-08-30 22:09:42,810 - INFO - Connecting to 127.0.0.1:7496 with clientId 999...
+2025-08-30 22:09:42,810 - INFO - Connected
+2025-08-30 22:09:42,823 - INFO - Logged on to server version 176
+2025-08-30 22:09:42,829 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm.nj
+2025-08-30 22:09:42,829 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-08-30 22:09:42,829 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:eufarm
+2025-08-30 22:09:42,829 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:cashfarm
+2025-08-30 22:09:42,829 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:eufarmnj
+2025-08-30 22:09:42,829 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm
+2025-08-30 22:09:42,829 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:euhmds
+2025-08-30 22:09:42,829 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:ushmds
+2025-08-30 22:09:42,833 - INFO - Warning 2158, reqId -1: Sec-def data farm connection is OK:secdefeu
+2025-08-30 22:09:42,833 - INFO - API connection ready
+2025-08-30 22:09:42,835 - INFO - position: Position(account='U21193481', contract=Stock(conId=150029461, symbol='CHSPI', exchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, avgCost=148.98)
+2025-08-30 22:09:42,937 - INFO - updatePortfolio: PortfolioItem(contract=Stock(conId=150029461, symbol='CHSPI', right='0', primaryExchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, marketPrice=147.5549927, marketValue=295.11, averageCost=148.98, unrealizedPNL=-2.85, realizedPNL=0.0, account='U21193481')
+2025-08-30 22:09:42,941 - INFO - Synchronization complete
+2025-08-30 22:09:42,941 - INFO - Connected to IBKR TWS/Gateway at 127.0.0.1:7496
+2025-08-30 22:09:43,093 - INFO - Disconnecting from 127.0.0.1:7496, 712 B sent in 9 messages, 20.2 kB received in 456 messages, session time 287 ms.
+2025-08-30 22:09:43,093 - INFO - Disconnecting
+2025-08-30 22:09:43,095 - INFO - Disconnected from IBKR
+2025-08-30 22:09:43,097 - INFO - Disconnected.
+2025-08-30 22:12:57,614 - INFO - Connecting to 127.0.0.1:7496 with clientId 1...
+2025-08-30 22:12:57,620 - INFO - Connected
+2025-08-30 22:12:57,652 - INFO - Logged on to server version 176
+2025-08-30 22:12:57,658 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm.nj
+2025-08-30 22:12:57,658 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-08-30 22:12:57,658 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:eufarm
+2025-08-30 22:12:57,658 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:cashfarm
+2025-08-30 22:12:57,658 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:eufarmnj
+2025-08-30 22:12:57,660 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm
+2025-08-30 22:12:57,661 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:euhmds
+2025-08-30 22:12:57,661 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:ushmds
+2025-08-30 22:12:57,661 - INFO - Warning 2158, reqId -1: Sec-def data farm connection is OK:secdefeu
+2025-08-30 22:12:57,661 - INFO - API connection ready
+2025-08-30 22:12:57,663 - INFO - position: Position(account='U21193481', contract=Stock(conId=150029461, symbol='CHSPI', exchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, avgCost=148.98)
+2025-08-30 22:12:57,864 - INFO - updatePortfolio: PortfolioItem(contract=Stock(conId=150029461, symbol='CHSPI', right='0', primaryExchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, marketPrice=147.5549927, marketValue=295.11, averageCost=148.98, unrealizedPNL=-2.85, realizedPNL=0.0, account='U21193481')
+2025-08-30 22:12:57,968 - INFO - Synchronization complete
+2025-08-30 22:12:57,968 - INFO - Connected to IBKR TWS/Gateway at 127.0.0.1:7496
+2025-08-30 22:12:57,972 - INFO - 127.0.0.1 - - [30/Aug/2025 22:12:57] "POST /api/connect HTTP/1.1" 200 -
+2025-08-30 22:13:11,299 - INFO - 127.0.0.1 - - [30/Aug/2025 22:13:11] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-08-30 22:13:41,155 - INFO - 127.0.0.1 - - [30/Aug/2025 22:13:41] "GET /socket.io/?EIO=4&transport=websocket&sid=tK_X9Y--je6pE-dYAAAC HTTP/1.1" 200 -
+2025-08-30 22:26:56,405 - INFO - Connecting to 127.0.0.1:7496 with clientId 1...
+2025-08-30 22:26:56,410 - INFO - Connected
+2025-08-30 22:26:56,420 - INFO - Logged on to server version 176
+2025-08-30 22:26:56,426 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm.nj
+2025-08-30 22:26:56,428 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-08-30 22:26:56,429 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:eufarm
+2025-08-30 22:26:56,429 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:cashfarm
+2025-08-30 22:26:56,429 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:eufarmnj
+2025-08-30 22:26:56,430 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm
+2025-08-30 22:26:56,432 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:euhmds
+2025-08-30 22:26:56,432 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:ushmds
+2025-08-30 22:26:56,434 - INFO - Warning 2158, reqId -1: Sec-def data farm connection is OK:secdefeu
+2025-08-30 22:26:56,434 - INFO - API connection ready
+2025-08-30 22:26:56,440 - INFO - position: Position(account='U21193481', contract=Stock(conId=150029461, symbol='CHSPI', exchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, avgCost=148.98)
+2025-08-30 22:26:56,736 - INFO - updatePortfolio: PortfolioItem(contract=Stock(conId=150029461, symbol='CHSPI', right='0', primaryExchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, marketPrice=147.5549927, marketValue=295.11, averageCost=148.98, unrealizedPNL=-2.85, realizedPNL=0.0, account='U21193481')
+2025-08-30 22:26:56,851 - INFO - Synchronization complete
+2025-08-30 22:26:56,852 - INFO - Connected to IBKR TWS/Gateway at 127.0.0.1:7496
+2025-08-30 22:26:56,954 - ERROR - Error getting portfolio positions: 'Position' object has no attribute 'marketPrice'
+2025-08-30 22:26:56,967 - INFO - 127.0.0.1 - - [30/Aug/2025 22:26:56] "POST /api/connect HTTP/1.1" 200 -
+2025-08-30 22:41:10,381 - INFO - Connecting to 127.0.0.1:7496 with clientId 1...
+2025-08-30 22:41:10,392 - INFO - Connected
+2025-08-30 22:41:10,408 - INFO - Logged on to server version 176
+2025-08-30 22:41:10,414 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm.nj
+2025-08-30 22:41:10,416 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-08-30 22:41:10,418 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:eufarm
+2025-08-30 22:41:10,418 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:cashfarm
+2025-08-30 22:41:10,420 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:eufarmnj
+2025-08-30 22:41:10,420 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm
+2025-08-30 22:41:10,423 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:euhmds
+2025-08-30 22:41:10,423 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:ushmds
+2025-08-30 22:41:10,427 - INFO - Warning 2158, reqId -1: Sec-def data farm connection is OK:secdefeu
+2025-08-30 22:41:10,430 - INFO - API connection ready
+2025-08-30 22:41:10,437 - INFO - position: Position(account='U21193481', contract=Stock(conId=150029461, symbol='CHSPI', exchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, avgCost=148.98)
+2025-08-30 22:41:10,541 - INFO - updatePortfolio: PortfolioItem(contract=Stock(conId=150029461, symbol='CHSPI', right='0', primaryExchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, marketPrice=147.5549927, marketValue=295.11, averageCost=148.98, unrealizedPNL=-2.85, realizedPNL=0.0, account='U21193481')
+2025-08-30 22:41:10,544 - INFO - Synchronization complete
+2025-08-30 22:41:10,544 - INFO - Connected to IBKR TWS/Gateway at 127.0.0.1:7496
+2025-08-30 22:41:10,617 - INFO - 127.0.0.1 - - [30/Aug/2025 22:41:10] "POST /api/connect HTTP/1.1" 200 -
+2025-08-31 07:43:47,931 - INFO - Connecting to 127.0.0.1:7496 with clientId 1...
+2025-08-31 07:43:47,992 - INFO - Connected
+2025-08-31 07:43:48,111 - INFO - Logged on to server version 176
+2025-08-31 07:43:48,126 - INFO - API connection ready
+2025-08-31 07:43:48,135 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:hfarm
+2025-08-31 07:43:48,135 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm.nj
+2025-08-31 07:43:48,135 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:jfarm
+2025-08-31 07:43:48,135 - INFO - position: Position(account='U21193481', contract=Stock(conId=150029461, symbol='CHSPI', exchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, avgCost=148.98)
+2025-08-31 07:43:48,135 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-08-31 07:43:48,135 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:eufarm
+2025-08-31 07:43:48,135 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:cashfarm
+2025-08-31 07:43:48,135 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:eufarmnj
+2025-08-31 07:43:48,135 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm
+2025-08-31 07:43:48,143 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:euhmds
+2025-08-31 07:43:48,143 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:fundfarm
+2025-08-31 07:43:48,143 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:ushmds
+2025-08-31 07:43:48,143 - INFO - Warning 2158, reqId -1: Sec-def data farm connection is OK:secdefeu
+2025-08-31 07:43:48,462 - INFO - updatePortfolio: PortfolioItem(contract=Stock(conId=150029461, symbol='CHSPI', right='0', primaryExchange='EBS', currency='CHF', localSymbol='CHSPI', tradingClass='CHSPI'), position=2.0, marketPrice=147.5549927, marketValue=295.11, averageCost=148.98, unrealizedPNL=-2.85, realizedPNL=0.0, account='U21193481')
+2025-08-31 07:43:48,558 - INFO - Synchronization complete
+2025-08-31 07:43:48,558 - INFO - Connected to IBKR TWS/Gateway at 127.0.0.1:7496
+2025-08-31 07:43:48,688 - INFO - 127.0.0.1 - - [31/Aug/2025 07:43:48] "POST /api/connect HTTP/1.1" 200 -
